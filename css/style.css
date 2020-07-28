@@ -1,0 +1,51 @@
+body{
+	margin: 50px;
+	font-size: 16px;
+	color: #fff;
+	background-color: #61122f;
+	font-family: "Montserrat", sans-serif;
+}
+
+.row > div{
+	border: 5px solid white;
+	background-color: #333;
+}
+
+.card{
+	margin: 50px;
+	position: relative;
+	float: left;
+
+
+}
+ .card-title{
+ 	color: black;
+ }
+
+ .card-text{
+ 	color: orange;
+ }
+
+ .btn{
+ 	background-color: orange;
+ 	border-radius: 50px;
+ 	border-width: 0px;
+ }
+
+.badge-blogging{
+	background-color: green;
+    padding: 5px 0px;
+    width: 25%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.badge-seo{
+background-color: blue;
+    padding: 5px 0px;
+    width: 25%;
+    position: absolute;
+    top: 0px;
+    right: 0px;	
+}
